@@ -1,0 +1,20 @@
+{
+  "paragraphs": [
+    {
+      "text": "Customer feedback helps us improve our service. We review every comment before making a decision.",
+      "translation": "客户反馈有助于我们改善服务。我们在作出决定前会仔细查看每条意见。",
+      "notes": [
+        {"phrase": "Customer feedback", "note": "客户反馈"},
+        {"phrase": "making a decision", "note": "作出决定"}
+      ]
+    },
+    {
+      "text": "Please confirm the delivery date by Friday so that we can keep the project on schedule.",
+      "translation": "请最迟于星期五确认交货日期，以便我们让项目按计划推进。",
+      "notes": [
+        {"phrase": "delivery date", "note": "交货日期"},
+        {"phrase": "on schedule", "note": "按计划"}
+      ]
+    }
+  ]
+}
