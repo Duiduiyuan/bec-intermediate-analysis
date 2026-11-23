@@ -4,7 +4,53 @@
 
 Create A4 English–Chinese study sheets with translations, vocabulary notes, and business collocations.
 
-[中文](#中文) · [English](#english)
+[样式预览 / Style Gallery](#样式预览--style-gallery) · [中文](#中文) · [English](#english)
+
+## 样式预览 / Style Gallery
+
+5 套配色使用相同的 A4 排版规范。点击样式编号或图片查看完整原图。
+
+Five color presets share the same A4 layout. Click a style number or preview to view the full-size image.
+
+### [样式 1 / Style 1](样式范本/BEC中级分析-样式1.png)
+
+<p>
+  <a href="样式范本/BEC中级分析-样式1.png"><img src="样式范本/BEC中级分析-样式1.png" width="520" alt="样式 1：象牙白底、绿色英文、浅绿译文 / Style 1: ivory background, green English, pale green translation" /></a>
+</p>
+
+> 象牙白底 · 绿色英文 · 浅绿译文 / Ivory background · green English · pale green translation.
+
+### [样式 2 / Style 2](样式范本/BEC中级分析-样式2.png)
+
+<p>
+  <a href="样式范本/BEC中级分析-样式2.png"><img src="样式范本/BEC中级分析-样式2.png" width="520" alt="样式 2：灰橄榄底、浅粉英文、藕粉译文 / Style 2: gray-olive background, pale pink English, dusty pink translation" /></a>
+</p>
+
+> 灰橄榄底 · 浅粉英文 · 藕粉译文 / Gray-olive background · pale pink English · dusty pink translation.
+
+### [样式 3 / Style 3](样式范本/BEC中级分析-样式3.png)
+
+<p>
+  <a href="样式范本/BEC中级分析-样式3.png"><img src="样式范本/BEC中级分析-样式3.png" width="520" alt="样式 3：深灰蓝底、暖黄英文、深灰译文 / Style 3: dark blue-gray background, warm yellow English, dark gray translation" /></a>
+</p>
+
+> 深灰蓝底 · 暖黄英文 · 深灰译文 / Dark blue-gray background · warm yellow English · dark gray translation.
+
+### [样式 4 / Style 4](样式范本/BEC中级分析-样式4.png)
+
+<p>
+  <a href="样式范本/BEC中级分析-样式4.png"><img src="样式范本/BEC中级分析-样式4.png" width="520" alt="样式 4：暖米色底、深灰英文、青绿译文、橙色注释 / Style 4: warm beige background, dark gray English, teal translation, orange notes" /></a>
+</p>
+
+> 暖米色底 · 深灰英文 · 青绿译文 · 橙色注释 / Warm beige background · dark gray English · teal translation · orange notes.
+
+### [样式 5 / Style 5](样式范本/BEC中级分析-样式5.png)
+
+<p>
+  <a href="样式范本/BEC中级分析-样式5.png"><img src="样式范本/BEC中级分析-样式5.png" width="520" alt="样式 5：浅灰白底、深青英文、浅青译文、红色注释 / Style 5: off-white background, dark teal English, pale teal translation, red notes" /></a>
+</p>
+
+> 浅灰白底 · 深青英文 · 浅青译文 · 红色注释 / Off-white background · dark teal English · pale teal translation · red notes.
 
 ## 中文
 
