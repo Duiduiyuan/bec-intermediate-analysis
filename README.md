@@ -70,7 +70,7 @@ Five color presets share the same A4 layout. Click a style number or preview to 
 下载本仓库，或使用 Git 克隆：
 
 ```bash
-git clone https://github.com/Duiduiyuan/BEC-bec-intermediate-analysis.git bec-intermediate-analysis
+git clone https://github.com/Duiduiyuan/bec-intermediate-analysis.git bec-intermediate-analysis
 ```
 
 保留整个文件夹及内部目录结构，将它安装到所用 AI 工具的 Skills 目录。若下载的是仓库 ZIP，解压后将文件夹命名为 `bec-intermediate-analysis`。安装位置和调用方式以所用工具为准。
@@ -131,7 +131,7 @@ The AI tool handles article-image recognition, translation, and annotation selec
 Download this repository or clone it with Git:
 
 ```bash
-git clone https://github.com/Duiduiyuan/BEC-bec-intermediate-analysis.git bec-intermediate-analysis
+git clone https://github.com/Duiduiyuan/bec-intermediate-analysis.git bec-intermediate-analysis
 ```
 
 Install the complete folder in your AI tool's Skills directory, preserving the internal structure. If you downloaded the repository ZIP, rename the extracted folder to `bec-intermediate-analysis`. Follow your tool's instructions for the installation location and invocation method.
